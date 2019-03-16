@@ -1,0 +1,23 @@
+commit 127601537eecd41a96b73d2202185abe08a064d5
+Author: Juan Pablo Castro <juanpablo719@hotmail.com>
+Date:   Sat Mar 16 13:32:08 2019 +0100
+
+    Completando página
+
+commit c59cba500904edea54f0b5540097ed5da1ad4b2e
+Author: Juan Pablo Castro <juanpablo719@hotmail.com>
+Date:   Fri Mar 15 12:27:28 2019 +0100
+
+    Agregando nuestro hero
+
+commit de7e61ac25e458e44a178b064002a5a163575a3e
+Author: Juan Pablo Castro <juanpablo719@hotmail.com>
+Date:   Fri Mar 15 12:24:34 2019 +0100
+
+    Agregando Header y fotos
+
+commit d28638e5a4f23e818d086767a776b57cc1e33aa1
+Author: Juan Pablo Castro <juanpablo719@hotmail.com>
+Date:   Fri Mar 15 12:02:39 2019 +0100
+
+    Inicialización de nuestro Landing
